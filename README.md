@@ -34,7 +34,7 @@ langchain-chatbot/
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/langchain-chatbot.git
+git clone https://github.com/parthmendiratta/langchain-chatbot-azure.git
 cd langchain-chatbot
 ```
 
@@ -74,7 +74,7 @@ streamlit run chat_test.py
 
 Once deployed on Streamlit Cloud, update the link here:
 
-🔗 [View Live Chatbot](https://your-streamlit-app-link)
+🔗 [View Live Chatbot](https://langchain-chatbot-azure-adbtboffypdkgbsw9fhiro.streamlit.app/)
 
 ---
 
